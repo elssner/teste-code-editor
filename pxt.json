@@ -3,8 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "code-editor": "github:theskizzle26/text-editor-calliope#pr-1",
-        "v3": "*"
+        "v3": "*",
+        "codeeditor": "github:elssner/codeeditor#master"
     },
     "files": [
         "main.blocks",
